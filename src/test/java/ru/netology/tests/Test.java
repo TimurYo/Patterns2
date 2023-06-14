@@ -15,7 +15,9 @@ import static ru.netology.data.Data.getRandomPassword;
 public class Test {
     @BeforeEach
     public void setup() {
-        open("http://localhost:9999");}
+        open("http://localhost:9999");
+        Configuration.holdBrowserOpen = true;
+    }
 
     @org.junit.jupiter.api.Test
     @DisplayName("Should successfully login with active registered user")

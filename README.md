@@ -1,1 +1,1 @@
-## Project Patterns part 2: 
+## Project Patterns part 2: [![Build status](https://ci.appveyor.com/api/projects/status/fhhs15xnm0y25x8k?svg=true)](https://ci.appveyor.com/project/TimurYo/patterns2)
